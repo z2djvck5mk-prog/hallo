@@ -1,0 +1,9 @@
+streamlit
+yfinance
+numpy
+pandas
+scipy
+plotly
+PyPortfolioOpt
+vaderSentiment
+streamlit-shadcn-ui
